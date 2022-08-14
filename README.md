@@ -1,6 +1,5 @@
-##Sila Siangchin
-##----------------------------------------------------------------------------------------------
 # Hi Everybody, My nickname is big. I'm junior Software Engineer . My dream is to be a developer. 👋
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=silabig1294&show_icons=true&theme=radical)
 
 
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)-->
