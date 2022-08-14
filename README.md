@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi Everybody, My nickname is big. I'm junior Software Engineer . My dream is to be a developer. 👋
 
 <!--
 **silabig1294/silabig1294** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
