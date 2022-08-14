@@ -22,10 +22,21 @@
     </table>
 
 
+# Statistics
+<h4>My Languages</h4>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=silabig1294)](https://github.com/anuraghazra/github-readme-stats)
+
+<h4>My Commits</h4>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=silabig1294&show_icons=true&theme=radical)
+<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=silabig1294&count_private=true)-->
+
+<h4>Views</h4>
+
+Profile hits : [![HitCount](https://hits.dwyl.com/silabig1294/silabig1294.svg?style=flat-square&show=unique)](http://hits.dwyl.com/silabig1294/silabig1294)
 
 
-<!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)-->
 
 <!--
 **silabig1294/silabig1294** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
