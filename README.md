@@ -13,7 +13,11 @@
       </tr>
       <tr>
         <td><img src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536785.png?token=exp=1660446223~hmac=36491a00129c800aef6470277c2436c2" alt="Line" width="150" height="150" ></td>
-        <td><a href="bit.ly/3bYEuH7">bit.ly/3bYEuH7</a></td>
+        <td><a href="https://line.me/ti/p/-cw_eSTJHt">silagokikada</a></td>
+      </tr>
+      <tr>
+        <td><img src="https://cdn-icons-png.flaticon.com/512/455/455907.png" alt="Line" width="150" height="150" ></td>
+        <td><a href="https://line.me/ti/p/-cw_eSTJHt">0636198875</a></td>
       </tr>
     </table>
 
