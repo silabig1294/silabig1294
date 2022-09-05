@@ -1,7 +1,7 @@
 # Sila Siangchin
 
 
-<h4>Hi Everybody, My nickname is big. I'm junior Software Engineer . My dream is to be a developer. 👋 </h4>
+<h4>Hi Everybody, My nickname is big. I'm junior Software Engineer . My dream is to be a developer. 👋🤔😎 </h4>
 
 
 # Contact
