@@ -19,6 +19,14 @@
         <td><img src="https://cdn-icons-png.flaticon.com/512/455/455907.png" alt="Line" width="150" height="150" ></td>
         <td><a href="https://line.me/ti/p/-cw_eSTJHt">0636198875</a></td>
       </tr>
+      <tr>
+        <td><img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" alt="Facebook" width="150" height="150" ></td>
+        <td><a href="https://www.facebook.com/profile.php?id=100002673007861">silasiangchin</a></td>
+      </tr>
+      <tr>
+         <td><img src="https://cdn-icons-png.flaticon.com/512/5968/5968906.png" alt="Medium" width="150" height="150"></td>
+         <td><a href="https://medium.com/@ricksiras14">SilaS.BigBlog</a></td>
+      </tr>
     </table>
 
 
