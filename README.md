@@ -7,7 +7,7 @@
 # Contact
 
 <table style="width:100%;">
-      <tr style="background-color: pink">
+      <tr>
         <th >Contact Source</th>
         <th >Link</th>
       </tr>
