@@ -12,7 +12,7 @@
         <th>Link</th>
       </tr>
       <tr>
-        <td><img src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536785.png?token=exp=1660446223~hmac=36491a00129c800aef6470277c2436c2" alt="Line" width="150" height="150" ></td>
+        <td><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficon-icons.com%2Fth%2F%25E0%25B9%2584%25E0%25B8%25AD%25E0%25B8%2584%25E0%25B8%25AD%25E0%25B8%2599%2FLINE-macOS-BigSur%2F190036&psig=AOvVaw03izzOqHpAAjuK8AO0rrTr&ust=1691793011348000&source=images&cd=vfe&opi=89978449&ved=0CA4QjRxqFwoTCODyiaKS04ADFQAAAAAdAAAAABAE" alt="Line" width="150" height="150" ></td>
         <td><a href="https://line.me/ti/p/-cw_eSTJHt">silagokikada</a></td>
       </tr>
       <tr>
