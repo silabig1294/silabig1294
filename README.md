@@ -8,8 +8,8 @@
 
 <table style="width:100%;">
       <tr>
-        <th>Contact Source</th>
-        <th>Link</th>
+        <th style="background-color: pink">Contact Source</th>
+        <th style="background-color: pink">Link</th>
       </tr>
       <tr>
         <td><img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/line_macos_bigsur_icon_190036.png" alt="Line" width="150" height="150" ></td>
